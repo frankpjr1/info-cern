@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+font-min-size: 16px;
+line-height:1.5;
+}
+
+nav {
+    padding-bottom: 3em;
+}
+nav li {
+    display: inline;
+    padding-right: 2em;
+}
